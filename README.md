@@ -1,1 +1,1 @@
-# daily-inks
+# DailyInks
